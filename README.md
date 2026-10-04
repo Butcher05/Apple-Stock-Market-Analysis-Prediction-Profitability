@@ -218,7 +218,7 @@ Base case: about **+2.28%** for October (about $2,279 on $100,000). This is a mo
 ## Figures
 
 ### Actual vs predicted next-day close
-![Actual vs predicted](figures/actual_vs_predicted.png)
+![Actual vs predicted](results/figures/actual_vs_predicted.png)
 
 ### Equity curves
 ![Equity curves](figures/equity_curves.png)
