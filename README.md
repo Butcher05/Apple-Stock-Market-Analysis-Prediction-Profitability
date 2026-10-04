@@ -221,16 +221,16 @@ Base case: about **+2.28%** for October (about $2,279 on $100,000). This is a mo
 ![Actual vs predicted](results/figures/actual_vs_predicted.png)
 
 ### Equity curves
-![Equity curves](figures/equity_curves.png)
+![Equity curves](results/figures/equity_curves.png)
 
 ### Feature importance
-![Feature importance](figures/feature_importance.png)
+![Feature importance](results/figures/feature_importance.png)
 
 ### Profit by period
-![Profit by period](figures/profit_by_period.png)
+![Profit by period](results/figures/profit_by_period.png)
 
 ### Trade signals
-![Trade signals](figures/trade_signals.png)
+![Trade signals](results/figures/trade_signals.png)
 
 ---
 
